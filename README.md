@@ -1,6 +1,6 @@
  👨‍💻 Hello everyone, I'm Vikramaditya Choudary!
 
-I'm **Moparthy Vikramaditya Choudary**, a final year B.Tech student at **QIS College of Engineering and Technology**, passionate about **Full Stack Web Development**. I love building web applications that solve real-world problems and enhance user experiences.
+A final year B.Tech student at **QIS College of Engineering and Technology**, passionate about **Full Stack Web Development**. I love building web applications that solve real-world problems and enhance user experiences.
 
 With strong skills in both frontend and backend technologies, I thrive on crafting dynamic, responsive, and efficient web solutions. I'm also a strong believer in teamwork and communication, with leadership experience that drives results.
 
