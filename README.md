@@ -23,7 +23,11 @@ With strong skills in both frontend and backend technologies, I thrive on crafti
 ### 🔧 Backend
 - PHP
 - Node.js
+- Express.js
+
+### Database
 - MongoDB
+- SQL
 
 ### 🧠 Soft Skills
 - Communication
