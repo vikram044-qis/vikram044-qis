@@ -1,63 +1,71 @@
- 👨‍💻 Hello everyone, I'm Vikramaditya Choudary!
+Hello everyone, I'm Moparthy Vikramaditya Choudary!
 
-A final year B.Tech student at **QIS College of Engineering and Technology**, passionate about **Full Stack Web Development**. I love building web applications that solve real-world problems and enhance user experiences.
+A final year B.Tech Computer Science Engineering student at QIS College of Engineering and Technology with a CGPA of 7.5. I’m a detail-oriented fresher passionate about AI, Data Analytics, and Full Stack Web Development, eager to apply my technical and problem-solving skills in real-world projects.
 
-With strong skills in both frontend and backend technologies, I thrive on crafting dynamic, responsive, and efficient web solutions. I'm also a strong believer in teamwork and communication, with leadership experience that drives results.
+I enjoy building smart systems, analyzing data, and developing applications that improve efficiency and user experience. I thrive in collaborative environments and bring strong communication, leadership, and adaptability to every team I work with.
 
----
+💼 What I Do
 
-## 💼 What I Do
+🤖 AI & Machine Learning based projects
 
-- 🧱 Full Stack Web Development (Frontend + Backend)
-- 🌐 Build and maintain responsive, user-friendly websites
-- 🚀 Turn ideas into scalable web applications
+📊 Data Analytics & Power BI Dashboards
 
----
+🌐 Full Stack & Web Development
 
-## 💻 Skills & Technologies
+🧠 Problem-solving with real-world data
 
-### 🌐 Frontend
-- HTML5, CSS3, JavaScript
-- React.js
+🛠️ Technical Skills
+👨‍💻 Programming
 
-### 🔧 Backend
-- PHP
-- Node.js
-- Express.js
+Python, HTML, CSS, JavaScript
 
-### Database
-- MongoDB
-- SQL
+🔧 Frameworks & Tools
 
-### 🧠 Soft Skills
-- Communication
-- Leadership
+Node.js, Express.js, OpenCV, Tesseract OCR
 
----
+🗄️ Databases
 
-## 🛠️ My Toolkit
+SQL, MongoDB
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+📊 Data & BI
 
-**Tools I Use**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
-![Web Development](https://img.shields.io/badge/Websites-Informative-blue)
+Power BI, DAX, MS Excel
 
----
+⚙️ Platforms
 
-## 🌍 Let's Connect!
+GitHub, Google Colab, VS Code
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikramaditya-choudary-7b0089293/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vikramaditya122829@gmail.com)
+🚀 Key Projects
+🌫️ Pocket Air – Smart AQI Monitoring System
 
----
+IoT-based portable system using ESP32, PMS5003, and BME280 to monitor AQI, temperature, and humidity in real time.
 
-⭐ *If you like what I do, please consider following me or starring my repositories — it motivates me to build more!*
+🎯 Face Recognition Attendance System
+
+Python + OpenCV system with voice feedback for automated attendance tracking.
+
+📄 OCR-Based Resume Parsing System
+
+OCR system using Tesseract and OpenCV to extract text from scanned and handwritten documents.
+
+📈 Power BI Dashboards
+
+Interactive dashboards for sales, IPL datasets, and business metrics.
+
+💼 Experience
+
+Artificial Intelligence Intern – Codec Technologies
+Enhanced predictive models using Python, feature engineering, and data preprocessing.
+
+Web Development Intern – ApexPlanet Software Solutions
+Built mini web projects using HTML, CSS, and JavaScript.
+
+🧠 Soft Skills
+
+Communication | Teamwork | Leadership | Problem Solving | Agile Collaboration
+
+🌍 Let’s Connect
+
+LinkedIn
+
+📧 vikramaditya0428@gmail.com
