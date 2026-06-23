@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vikramaditya Choudary</h1>
+<h1 align="center">Hi, I'm Vikramaditya Choudary</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Development+Enthusiast;Machine+Learning+Learner;Python+Developer;Data+Analytics+Explorer;Open+to+Opportunities" alt="Typing SVG" />
@@ -94,21 +94,10 @@
 </table>
 
 ---
+
 ## 💼 Experience
 
-<table>
-<tr>
-<td align="center" width="180">
-
-<img src="https://raw.githubusercontent.com/SriSaiPranavi/assets/main/vervenest.png" width="80"/>
-
-**VerveNest Technologies**
-
-Software Engineer Intern
-
-</td>
-
-<td>
+### Software Engineer Intern | VerveNest Technologies
 
 🔹 Developed OCR-based applications using Python, OpenCV, and Tesseract OCR.
 
@@ -116,25 +105,7 @@ Software Engineer Intern
 
 🔹 Collaborated with team members on implementation and workflow optimization.
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="180">
-
-<img src="https://raw.githubusercontent.com/SriSaiPranavi/assets/main/codec.png" width="80"/>
-
-**Codec Technologies**
-
-AI Intern
-
-</td>
-
-<td>
+### AI Intern | Codec Technologies
 
 🔹 Worked on AI-based project tasks and practical implementation activities.
 
@@ -142,37 +113,8 @@ AI Intern
 
 🔹 Gained exposure to real-world AI workflows and development practices.
 
-</td>
-</tr>
-</table>
-
 ---
 
-## 🤝 Volunteer Experience
-
-<table>
-<tr>
-<td align="center" width="180">
-
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/National_Service_Scheme_Logo.svg/512px-National_Service_Scheme_Logo.svg.png" width="80"/>
-
-**National Service Scheme**
-
-Active Volunteer
-
-</td>
-
-<td>
-
-🔹 Participated in community service and social development programs.
-
-🔹 Contributed to cleanliness drives, awareness campaigns, and volunteer initiatives.
-
-🔹 Strengthened teamwork, leadership, and communication skills.
-
-</td>
-</tr>
-</table>
 
 
 ## 🏆 Achievements & Certifications
@@ -187,7 +129,17 @@ Active Volunteer
 
 ---
 
+## 🤝 Volunteer Experience
 
+### National Service Scheme (NSS)
+
+🔹 Participated in community service and social development programs.
+
+🔹 Contributed to cleanliness drives, awareness campaigns, and volunteer initiatives.
+
+🔹 Strengthened teamwork, leadership, and communication skills.
+
+---
 
 ## 📫 Connect With Me
 
