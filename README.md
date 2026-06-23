@@ -63,9 +63,7 @@
 <td align="center">
 <img src="https://img.icons8.com/color/48/opencv.png" width="50"/><br>OpenCV
 </td>
-<td align="center">
-<img src="https://img.icons8.com/color/48/ocr.png" width="50"/><br>Tesseract OCR
-</td>
+
 </tr>
 </table>
 
