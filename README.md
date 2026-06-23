@@ -1,3 +1,27 @@
+<h1 align="center">Hi 👋, I'm Vikramaditya Choudary</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Development+Enthusiast;Machine+Learning+Learner;Python+Developer;Data+Analytics+Explorer;Open+to+Opportunities" alt="Typing SVG" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 B.Tech Computer Science & Engineering Student
+
+💻 Passionate about Software Development, Machine Learning, and Data Analytics
+
+🔍 Interested in solving real-world problems using technology and data-driven solutions
+
+🚀 Hands-on experience in OCR-based applications, Power BI dashboards, and AI-based projects
+
+🤝 Strong believer in teamwork, continuous learning, and professional growth
+
+🌱 Currently exploring Machine Learning, Data Analytics, and Software Development
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Concepts
@@ -63,24 +87,80 @@
 <td align="center">
 <img src="https://img.icons8.com/color/48/opencv.png" width="50"/><br>OpenCV
 </td>
-
+<td align="center">
+🤖<br>Tesseract OCR
+</td>
 </tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Experience
 
-📄 OCR-Based Text Extraction System
+### Software Engineer Intern | VerveNest Technologies
 
-📊 Power BI Data Analytics Dashboards
+🔹 Developed OCR-based applications using Python, OpenCV, and Tesseract OCR.
+
+🔹 Improved text extraction workflows and supported feature enhancements.
+
+🔹 Collaborated with team members on implementation and workflow optimization.
+
+### AI Intern | Codec Technologies
+
+🔹 Worked on AI-based project tasks and practical implementation activities.
+
+🔹 Applied analytical and problem-solving skills to project development.
+
+🔹 Gained exposure to real-world AI workflows and development practices.
 
 ---
 
-## 🏆 Achievements
+## 🚀 Featured Projects
+
+### 📄 OCR-Based Text Extraction System
+
+🔹 Developed an OCR application to extract text from scanned, handwritten, and printed resumes.
+
+🔹 Applied image preprocessing techniques to improve extraction accuracy.
+
+### 📊 Power BI Data Analytics Dashboards
+
+🔹 Built interactive dashboards for sales analysis and IPL datasets.
+
+🔹 Generated visual reports and business insights to support decision-making.
+
+---
+
+## 🏆 Achievements & Certifications
 
 🏅 The Rising Stars 2026 – AICTE & EduSkills
 
-🏅 Software Engineer Intern – VerveNest Technologies
+🏅 Microsoft Learn – Power BI
 
-🏅 AI Intern – Codec Technologies
+🏅 Deloitte Data Analytics Virtual Job Simulation
+
+🏅 CodeTantra – Python Programming
+
+---
+
+## 🤝 Volunteer Experience
+
+### National Service Scheme (NSS)
+
+🔹 Participated in community service and social development programs.
+
+🔹 Contributed to cleanliness drives, awareness campaigns, and volunteer initiatives.
+
+🔹 Strengthened teamwork, leadership, and communication skills.
+
+---
+
+## 📫 Connect With Me
+
+📧 [vikramaditya0428@gmail.com](mailto:vikramaditya0428@gmail.com)
+
+💼 LinkedIn: Add LinkedIn Profile Link
+
+🌐 GitHub: Add GitHub Profile Link
+
+📍 Andhra Pradesh, India
