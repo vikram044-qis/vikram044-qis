@@ -37,9 +37,7 @@
 <td align="center">
 🔄<br>SDLC
 </td>
-<td align="center">
-🤖<br>Machine Learning
-</td>
+
 </tr>
 </table>
 
