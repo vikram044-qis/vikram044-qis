@@ -94,10 +94,21 @@
 </table>
 
 ---
-
 ## 💼 Experience
 
-### Software Engineer Intern | VerveNest Technologies
+<table>
+<tr>
+<td align="center" width="180">
+
+<img src="https://raw.githubusercontent.com/SriSaiPranavi/assets/main/vervenest.png" width="80"/>
+
+**VerveNest Technologies**
+
+Software Engineer Intern
+
+</td>
+
+<td>
 
 🔹 Developed OCR-based applications using Python, OpenCV, and Tesseract OCR.
 
@@ -105,7 +116,25 @@
 
 🔹 Collaborated with team members on implementation and workflow optimization.
 
-### AI Intern | Codec Technologies
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="180">
+
+<img src="https://raw.githubusercontent.com/SriSaiPranavi/assets/main/codec.png" width="80"/>
+
+**Codec Technologies**
+
+AI Intern
+
+</td>
+
+<td>
 
 🔹 Worked on AI-based project tasks and practical implementation activities.
 
@@ -113,23 +142,38 @@
 
 🔹 Gained exposure to real-world AI workflows and development practices.
 
----
-
-## 🚀 Featured Projects
-
-### 📄 OCR-Based Text Extraction System
-
-🔹 Developed an OCR application to extract text from scanned, handwritten, and printed resumes.
-
-🔹 Applied image preprocessing techniques to improve extraction accuracy.
-
-### 📊 Power BI Data Analytics Dashboards
-
-🔹 Built interactive dashboards for sales analysis and IPL datasets.
-
-🔹 Generated visual reports and business insights to support decision-making.
+</td>
+</tr>
+</table>
 
 ---
+
+## 🤝 Volunteer Experience
+
+<table>
+<tr>
+<td align="center" width="180">
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/National_Service_Scheme_Logo.svg/512px-National_Service_Scheme_Logo.svg.png" width="80"/>
+
+**National Service Scheme**
+
+Active Volunteer
+
+</td>
+
+<td>
+
+🔹 Participated in community service and social development programs.
+
+🔹 Contributed to cleanliness drives, awareness campaigns, and volunteer initiatives.
+
+🔹 Strengthened teamwork, leadership, and communication skills.
+
+</td>
+</tr>
+</table>
+
 
 ## 🏆 Achievements & Certifications
 
@@ -143,17 +187,7 @@
 
 ---
 
-## 🤝 Volunteer Experience
 
-### National Service Scheme (NSS)
-
-🔹 Participated in community service and social development programs.
-
-🔹 Contributed to cleanliness drives, awareness campaigns, and volunteer initiatives.
-
-🔹 Strengthened teamwork, leadership, and communication skills.
-
----
 
 ## 📫 Connect With Me
 
